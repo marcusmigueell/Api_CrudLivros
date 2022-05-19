@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MarcusMiguel\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\marcusmiguel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api.Net-Core\\Api.Net-Core.csproj",
+      "projectUniqueName": "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\Api.Net-Core.csproj",
       "projectName": "Api.Net-Core",
-      "projectPath": "D:\\Api.Net-Core\\Api.Net-Core.csproj",
-      "packagesPath": "C:\\Users\\MarcusMiguel\\.nuget\\packages\\",
-      "outputPath": "D:\\Api.Net-Core\\obj\\",
+      "projectPath": "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\Api.Net-Core.csproj",
+      "packagesPath": "C:\\Users\\marcusmiguel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MarcusMiguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marcusmiguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

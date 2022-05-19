@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V7g5aWjT/GOJpmZ0H5ux/+Izk42XqEfkDUSRIhCJ9k1ewvEyRTcjtLYCPkQULXW/YuFcPAzdoC9G57KuyM1yxw==",
+  "dgSpecHash": "NJW8T+F5fM4llf//1mUuMQsQ/UhYTlUPbwl+YVXFMoIHCjpDzwJVk7D59i3AbeH3c6S4bL4/2Csz5e07h3/RBA==",
   "success": true,
-  "projectFilePath": "D:\\Api.Net-Core\\Api.Net-Core.csproj",
+  "projectFilePath": "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\Api.Net-Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
