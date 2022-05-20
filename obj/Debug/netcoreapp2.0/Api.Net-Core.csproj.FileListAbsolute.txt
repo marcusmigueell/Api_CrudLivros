@@ -1,0 +1,5 @@
+D:\Api.Net-Core\obj\Debug\netcoreapp2.0\Api.Net-Core.csproj.AssemblyReference.cache
+D:\Api.Net-Core\obj\Debug\netcoreapp2.0\Api.Net-Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api.Net-Core\obj\Debug\netcoreapp2.0\Api.Net-Core.AssemblyInfoInputs.cache
+D:\Api.Net-Core\obj\Debug\netcoreapp2.0\Api.Net-Core.AssemblyInfo.cs
+D:\Api.Net-Core\obj\Debug\netcoreapp2.0\Api.Net-Core.csproj.CoreCompileInputs.cache

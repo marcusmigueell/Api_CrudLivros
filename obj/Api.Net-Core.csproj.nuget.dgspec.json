@@ -1,32 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\Api.Net-Core.csproj": {}
+    "D:\\Api.Net-Core\\Api.Net-Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\Api.Net-Core.csproj": {
+    "D:\\Api.Net-Core\\Api.Net-Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\Api.Net-Core.csproj",
+        "projectUniqueName": "D:\\Api.Net-Core\\Api.Net-Core.csproj",
         "projectName": "Api.Net-Core",
-        "projectPath": "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\Api.Net-Core.csproj",
-        "packagesPath": "C:\\Users\\marcusmiguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcusmiguel\\Desktop\\Api_CrudLivros\\obj\\",
+        "projectPath": "D:\\Api.Net-Core\\Api.Net-Core.csproj",
+        "packagesPath": "C:\\Users\\MarcusMiguel\\.nuget\\packages\\",
+        "outputPath": "D:\\Api.Net-Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marcusmiguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MarcusMiguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "netcoreapp2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +40,18 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

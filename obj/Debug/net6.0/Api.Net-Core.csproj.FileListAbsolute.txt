@@ -36,3 +36,14 @@ C:\Users\marcusmiguel\Desktop\Api_CrudLivros\obj\Debug\net6.0\refint\Api.Net-Cor
 C:\Users\marcusmiguel\Desktop\Api_CrudLivros\obj\Debug\net6.0\Api.Net-Core.pdb
 C:\Users\marcusmiguel\Desktop\Api_CrudLivros\obj\Debug\net6.0\Api.Net-Core.genruntimeconfig.cache
 C:\Users\marcusmiguel\Desktop\Api_CrudLivros\obj\Debug\net6.0\ref\Api.Net-Core.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Api.Net-Core\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Api.Net-Core\obj\Debug\net6.0\Api.Net-Core.csproj.CopyComplete

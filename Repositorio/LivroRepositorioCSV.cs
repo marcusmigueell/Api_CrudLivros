@@ -1,4 +1,5 @@
 ﻿using Api.Net_Core.Negocio;
+using System.Collections.Generic;
 
 namespace Api.Net_Core.Repositorio {
 

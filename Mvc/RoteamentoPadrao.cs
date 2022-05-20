@@ -7,7 +7,7 @@ namespace Api.Net_Core.Mvc {
             var classe = Convert.ToString(context.GetRouteValue("classe"));
             var nomeMetodo = Convert.ToString(context.GetRouteValue("metodo"));
 
-            var nomeCompleto = $"Api.Net_Core.Logica.{classe}Logica";
+            var nomeCompleto = $"Api.Net_Core.Logica.{classe}Controller";
 
             var tipo = Type.GetType(nomeCompleto);
             var metodo = tipo.GetMethods().Where(m => m.Name == nomeMetodo).First();
